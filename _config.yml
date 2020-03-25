@@ -1,11 +1,11 @@
 # Site settings
-title: Abulla | A simple Jekyll blog
+title: Abulla | A Data Science  blog
 description: "A minimal blog template, build with Jekyll."
-url: "http://www.jacoporabolini.com/emerald"
+url: "https://github.com/abelothow/abelothow"
 author:
-  name: "Jacopo Rabolini"
-  email: "hello@jacoporabolini.com"
-  url: "http://www.jacoporabolini.com"
+  name: "Abulla Othow"
+  email: "getabelothow.com"
+  url: "https://github.com/abelothow"
 
 # Build settings
 baseurl: /blog # Change this to your relative path (ex: /blog/), or leave just a /
